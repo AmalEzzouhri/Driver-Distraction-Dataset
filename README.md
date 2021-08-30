@@ -47,7 +47,7 @@ This work is partly funded by the National Agency for Road Safety (NARSA) of the
 
 
 
-![image](https://user-images.githubusercontent.com/36284282/131348814-637ddb69-2e56-4df2-988b-cf1629daac06.png)(link to yourhttps://www.kaggle.com/c/state-farm-distracted-driver-detectionURL)
+![https://www.kaggle.com/c/state-farm-distracted-driver-detectionURL](https://user-images.githubusercontent.com/36284282/131348814-637ddb69-2e56-4df2-988b-cf1629daac06.png)
 
 
 
