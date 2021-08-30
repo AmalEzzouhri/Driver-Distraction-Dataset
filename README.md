@@ -28,9 +28,26 @@ To study the driver's behavior in real traffic situations, we conducted experime
 (i) a camera, installed above the vehicle's side window and oriented toward the driver, and
 (ii) a Mobile Digital Video Recorder (MDVR).
 
-One part of the data was collected in real-world driving conditions. The other part was collected by asking drivers to simulate different types of driving behaviors in the instrumented vehicle, but without moving the vehicle for safety reasons. Nine drivers were involved in the experiment. Each of them was asked to perform the ten activities separately (i.e., one activity for each video sequence) while driving or pretending to drive, which took about 15 minutes for each driver resulting in about 450 images per class per driver. After the manual examination, a total of about 38 thousand images were preserved. Fig. \ref{data_distribution} illustrates the data distribution over the classes.
+One part of the data was collected in real-world driving conditions. The other part was collected by asking drivers to simulate different types of driving behaviors in the instrumented vehicle, but without moving the vehicle for safety reasons. Nine drivers were involved in the experiment. Each of them was asked to perform the ten activities separately (i.e., one activity for each video sequence) while driving or pretending to drive, which took about 15 minutes for each driver resulting in about 450 images per class per driver. After the manual examination, a total of about 38 thousand images were preserved. Figure bellow illustrates the data distribution over the classes.
 
  
 ![data_distribution](https://user-images.githubusercontent.com/36284282/131348814-637ddb69-2e56-4df2-988b-cf1629daac06.png)
+
+# Privacy
+This dataset is made available for academic use only. The drivers who participated in the creation of the database were invited to accept the publication of its images, and they accepted. 
+# Terms & Conditions
+All publications that report on research that uses the dataset should cite our publications.
+
+
+# Acknowledgement
+This work is partly funded by the National Agency for Road Safety (NARSA) of the Moroccan Ministry of Equipment, Transport, Logistics and Water, via the National Center for Scientific and Technical Research (CNRST).
+
+## Download
+
+https://user-images.githubusercontent.com/36284282/131348814-637ddb69-2e56-4df2-988b-cf1629daac06.png
+
+
+
+
 
 
