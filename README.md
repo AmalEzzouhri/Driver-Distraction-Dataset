@@ -9,17 +9,16 @@ Researchers often build their own datasets purely for their studies, many of whi
 
 We referred to the aforementioned datasets to compile our own dataset using an efficient data collection strategy; it required less time than correcting the existing datasets. 
 Ten driver distraction classes were defined including:
-
-   C0: Safe driving
-   C1: Texting - right hand
-   C2: Talking on the phone - right hand
-   C3: Texting - left hand
-   C4: Talking on the phone - left hand
-   C5: Operating the radio
-   C6: Drinking
-   C7: Reaching behind
-   C8: Tidying up hair or applying makeup
-   C9: Talking to passenger
+   C0: Safe driving,
+   C1: Texting - right hand,
+   C2: Talking on the phone - right hand,
+   C3: Texting - left hand,
+   C4: Talking on the phone - left hand,
+   C5: Operating the radio,
+   C6: Drinking,
+   C7: Reaching behind,
+   C8: Tidying up hair or applying makeup,
+   C9: Talking to passenger.
    
    
 # Data Collection setup
@@ -29,7 +28,7 @@ To study the driver's behavior in real traffic situations, we conducted experime
 (i) a camera, installed above the vehicle's side window and oriented toward the driver, and
 (ii) a Mobile Digital Video Recorder (MDVR).
 
-One part of the data was collected in real-world driving conditions. The other part was collected by asking drivers to simulate different types of driving behaviors in the instrumented vehicle, but without moving the vehicle for safety reasons. Nine drivers were involved in the experiment. Each of them was asked to perform the ten activities separately (i.e., one activity for each video sequence) while driving or pretending to drive, which took about 15 minutes for each driver resulting in about 450 images per class per driver. After the manual examination, a total of about 38 thousand images were preserved. Fig. \ref{DC} illustrates the data distribution over the classes.
+One part of the data was collected in real-world driving conditions. The other part was collected by asking drivers to simulate different types of driving behaviors in the instrumented vehicle, but without moving the vehicle for safety reasons. Nine drivers were involved in the experiment. Each of them was asked to perform the ten activities separately (i.e., one activity for each video sequence) while driving or pretending to drive, which took about 15 minutes for each driver resulting in about 450 images per class per driver. After the manual examination, a total of about 38 thousand images were preserved. Fig. \ref{data_distribution} illustrates the data distribution over the classes.
 
  
 ![data_distribution](https://user-images.githubusercontent.com/36284282/131348814-637ddb69-2e56-4df2-988b-cf1629daac06.png)
