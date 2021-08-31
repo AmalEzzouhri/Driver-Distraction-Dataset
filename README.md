@@ -44,6 +44,6 @@ This work is partly funded by the National Agency for Road Safety (NARSA) of the
 
 ## Download
 
-[![CI](https://user-images.githubusercontent.com/36284282/131467359-60478c49-bd9f-4a09-9f01-5014ae7a5c39.png)]{:height="50%" width="50%"}(https://uirabat-my.sharepoint.com/personal/amal_ezzouhri_uir_ac_ma/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Famal%5Fezzouhri%5Fuir%5Fac%5Fma%2FDocuments)
+[![CI](https://user-images.githubusercontent.com/36284282/131467359-60478c49-bd9f-4a09-9f01-5014ae7a5c39.png){height="50%" width="50%"}](https://uirabat-my.sharepoint.com/personal/amal_ezzouhri_uir_ac_ma/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Famal%5Fezzouhri%5Fuir%5Fac%5Fma%2FDocuments)
 
 
