@@ -36,7 +36,8 @@ One part of the data was collected in real-world driving conditions. The other p
 # Privacy
 This dataset is made available for academic use only. The drivers who participated in the creation of the database were invited to accept the publication of its images, and they accepted. 
 # Terms & Conditions
-- All publications that report on research that uses the dataset should cite our publications.
+- All publications that report on research that uses the dataset should cite the paper:
+A. Ezzouhri, Z. Charouh, M. Ghogho and Z. Guennoun, "Robust Deep Learning-Based Driver Distraction Detection and Classification," in IEEE Access, vol. 9, pp. 168080-168092, 2021, doi: 10.1109/ACCESS.2021.3133797.
 - Not use this work for commercial purposes (for commercial use, please contact us (amal.ezzouhri@uir.ac.ma or z.charouh@gmail.com))
 
 
