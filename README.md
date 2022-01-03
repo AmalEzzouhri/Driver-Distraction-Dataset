@@ -47,7 +47,7 @@ This work is partly funded by the National Agency for Road Safety (NARSA) of the
 
 <a href="https://uirabat-my.sharepoint.com/:f:/g/personal/amal_ezzouhri_uir_ac_ma/EuN8MpvhuD1OmEPjsl1rHmEBc1ZbO81e_C5v7pI6GGCYRg?e=cxwoXd"><img src="https://user-images.githubusercontent.com/36284282/131467359-60478c49-bd9f-4a09-9f01-5014ae7a5c39.png" width="80" height="50"/></a>
 
-Password: it will be announced once the article is online.
+Password: HowDriveProject
 
 
 
